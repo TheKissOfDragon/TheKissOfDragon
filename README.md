@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheKissOfDragon
+- 👋 Hi, I’m @TheKissOfDragon,you call me neil that is my english name.
 - 👀 I’m interested in researching new technology, palying badminton. I would like to commmunicate with anyone.
 - 🌱 I’m currently learning rust and front end
 - 💞️ I’m looking to collaborate on ...
